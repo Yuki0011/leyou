@@ -13,7 +13,7 @@ public class LyApiGetway {
       //小袁来了
         //小袁又走了
       //校长来了
-        //服务器
+        //本地
       
         SpringApplication.run(LyApiGetway.class,args);
     }
