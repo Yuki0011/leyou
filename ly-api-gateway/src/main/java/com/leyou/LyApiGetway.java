@@ -10,10 +10,6 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 @EnableZuulProxy
 public class LyApiGetway {
     public static void main(String[] args) {
-      //小袁来了
-        //小袁又走了
-      //校长来了
-        //服务器123
       
         SpringApplication.run(LyApiGetway.class,args);
     }
