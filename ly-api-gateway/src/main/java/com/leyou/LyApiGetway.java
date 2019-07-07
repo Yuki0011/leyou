@@ -13,6 +13,7 @@ public class LyApiGetway {
         //制造冲突  云端
         //制造冲突 本地
         //创建分支
+        //在分支上开发
         SpringApplication.run(LyApiGetway.class,args);
     }
 }
