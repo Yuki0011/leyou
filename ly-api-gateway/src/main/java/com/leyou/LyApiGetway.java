@@ -11,6 +11,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 public class LyApiGetway {
     public static void main(String[] args) {
       //小袁来了
+        //小袁又走了
       
       
         SpringApplication.run(LyApiGetway.class,args);
