@@ -10,7 +10,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 @EnableZuulProxy
 public class LyApiGetway {
     public static void main(String[] args) {
-      
+        //制造冲突 本地
         SpringApplication.run(LyApiGetway.class,args);
     }
 }
